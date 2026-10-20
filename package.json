@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "cozy-konnector-libs": "4.52.1",
-    "tough-cookie": "4.0.0"
+    "tough-cookie": "6.0.2"
   },
   "devDependencies": {
     "cozy-jobs-cli": "1.17.6",
